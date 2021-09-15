@@ -1,0 +1,14 @@
+*
+!.gitattributes
+!.gitignore
+!.gitkeep
+!*.md
+!*.c
+!*.h
+!*.txt
+!*/
+!*.png
+examples
+scripts
+outputs
+nbody-examples
